@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Log_phone"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="28dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginLeft="9dp"
+        android:id="@+id/back"
+        android:layout_width="53dp"
+        android:layout_height="48dp"
+        app:srcCompat="@drawable/left_arrow"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="6dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_marginLeft="9dp"
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="안녕하세요!\n이메일로 로그인 해주세요."
+        android:textSize="24dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="61dp" />
+
+    <TextView
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="9dp"
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="이메일은 안전하게 보관되며 이웃들에게 공개되지 않아요."
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <EditText
+        android:layout_marginBottom="3dp"
+        android:layout_gravity="center"
+        android:id="@+id/input_phone_num"
+        android:layout_width="393dp"
+        android:layout_height="48dp"
+        android:background="@drawable/bolder2"
+        android:ems="10"
+        android:hint="  이메일을 입력해주세요."
+        android:inputType="textEmailAddress"
+        />
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/input_phone_num2"
+        android:layout_width="393dp"
+        android:layout_height="48dp"
+
+        android:background="@drawable/bolder"
+        android:ems="10"
+        android:hint="  비밀번호를 입력해주세요."
+        android:inputType="textPassword"
+       />
+
+    <CheckBox
+        android:layout_marginLeft="9dp"
+        android:id="@+id/cb_save"
+        android:layout_width="411dp"
+        android:layout_height="48dp"
+        android:text="로그인 정보 기억하기"
+        tools:layout_editor_absoluteY="285dp" />
+
+    <Button
+        android:layout_gravity="center"
+        android:id="@+id/log"
+        android:layout_width="393dp"
+        android:layout_height="48dp"
+        android:text="로그인"
+        android:background="@color/yellow"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="332dp" />
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center">
+    <TextView
+        android:id="@+id/id_find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="아이디를 잃어버리셨나요?"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="389dp" />
+
+    <TextView
+
+        android:id="@+id/id_find2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="질문으로 아이디 찾기"
+        tools:layout_editor_absoluteX="233dp"
+        tools:layout_editor_absoluteY="389dp" />
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginLeft="12dp">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="비밀번호를 잃어버리셨나요?"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="412dp" />
+
+    <TextView
+
+        android:id="@+id/pwd_find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="질문으로 비밀번호 찾기"
+        tools:layout_editor_absoluteX="233dp"
+        tools:layout_editor_absoluteY="412dp" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

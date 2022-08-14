@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.13177083333333334" />
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.11302083333333333" />
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.11302083333333333" />
+        <entry key="app/src/main/res/drawable-v24/edge.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/back.xml" value="0.117" />
+        <entry key="app/src/main/res/drawable/bolder.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/bolder2.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/contentview1.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.141" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/icon_check.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rectangle.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/titleview.xml" value="0.1" />
+        <entry key="app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="app/src/main/res/font/gimpogothicbold.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w1240dp/camera_recyclerview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w936dp/buy_form.xml" value="0.1203125" />
+        <entry key="app/src/main/res/layout-w936dp/custom_dialog_change_pwd.xml" value="0.125" />
+        <entry key="app/src/main/res/layout-w936dp/find_id.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_mapex.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_preference_manager.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/buy_form.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/buy_image_data.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/buy_image_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/buy_popup.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/buy_view.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/camera_data.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/camera_ex.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/camera_example.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/camera_recyclerview.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/camera_shooting.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/custom_dialog_change_pwd.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/custom_dialog_find_id.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/custom_dialog_find_pwd.xml" value="0.15853658536585366" />
+        <entry key="app/src/main/res/layout/datarecyclerview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/find_id.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment1_home.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment1_recyclerview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment2_hobby.xml" value="0.14907407407407408" />
+        <entry key="app/src/main/res/layout/fragment2_near.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment3_chat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment4_me.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment5_me.xml" value="0.203125" />
+        <entry key="app/src/main/res/layout/fragment_fragment2_hobby.xml" value="0.203125" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/log_before.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/log_phone.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.1518987341772152" />
+        <entry key="app/src/main/res/layout/login_joinmembership.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/login_sharedpreferences.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/manual.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/multi_image_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/product_content.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/rectangle.xml" value="0.1078125" />
+        <entry key="app/src/main/res/layout/recyclerview_data.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/recyclerview_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/reset_pwd.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/sell_form.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/signup.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/trade_recyclerview_data.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/trade_recyclerview_item.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/item.xml" value="0.125" />
+        <entry key="app/src/main/res/xml/file_paths.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/file_paths2.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

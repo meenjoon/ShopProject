@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shopproject1"> </string>
+    <string-array name="category">
+        <item>
+            - 카테고리를 선택해주세요 -
+        </item>
+        <item>
+            가방
+        </item>
+        <item>
+            옷
+        </item>
+        <item>
+           신발
+        </item>
+        <item>
+            가전제품
+        </item>
+        <item>
+            생필품
+        </item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/mainbackground">
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:text="로그아웃"
+        android:layout_gravity="end"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        ></Button>
+
+    <TextView
+        android:layout_width="370dp"
+        android:layout_height="150dp"
+        android:text="중 고 거 래"
+        android:textSize="80dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@drawable/titleview"
+
+        >
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        ></TextView>
+
+    <TextView
+        android:id="@+id/manual"
+        android:layout_width="280dp"
+        android:layout_height="150dp"
+        android:text="1. 거래방법"
+        android:textSize="50dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@drawable/yellow_round_square"
+
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        ></TextView>
+
+    <TextView
+        android:id="@+id/trade"
+        android:layout_width="280dp"
+        android:layout_height="150dp"
+        android:text="2. 거래하기"
+        android:textSize="50dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@drawable/yellow_round_square"
+        >
+    </TextView>
+
+
+
+
+</LinearLayout>
